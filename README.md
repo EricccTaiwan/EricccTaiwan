@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eric Chou.
-- 👀 I’m interested in Communication Engineering.
+- 👀 I’m interested in Communication Engineering and Digital Signal Processing.
 - 🌱 Research Interests : UAV communciations/ Optimization .
 - 📫 mail : yphbchou0911@gmail.com.tw
 
