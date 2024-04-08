@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @EricccTaiwan
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning computer science
+- 👋 Hi, I’m Eric Chou.
+- 👀 I’m interested in Communication Engineering.
+- 🌱 I’m currently learning C language.
 - 📫 mail : yphbchou0911@gmail.com.tw
 
 <!---
