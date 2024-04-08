@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eric Chou.
 - 👀 I’m interested in Communication Engineering.
-- 🌱 I’m currently learning C language.
+- 🌱 Research Interests : UAV communciations/ Optimization .
 - 📫 mail : yphbchou0911@gmail.com.tw
 
 <!---
