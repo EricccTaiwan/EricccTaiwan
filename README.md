@@ -1,9 +1,4 @@
-- 👋 Hi, I’m Eric Chou.
-- 👀 I’m interested in Communication Engineering and Digital Signal Processing.
-- 🌱 Research Interests :
-    - Convex Optimization
-    - UAV Communcation
-    - Beamforming
+- 🌱 Research Interests : Convex Optimization, UAV Communcation, Beamforming.
 - 📫 mail : yphbchou0911@gmail.com.tw
 
 
