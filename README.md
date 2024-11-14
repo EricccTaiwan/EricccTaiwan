@@ -1,4 +1,4 @@
-- 🌱 Research Interests : Convex Optimization, UAV Communcation, 3D-Trajectory
+- 🌱 Research Interests : Convex Optimization, UAV Communcation, Mobile-Edge-Computing (MEC)
 - 📫 mail : yphbchou0911@gmail.com.tw
 
 
