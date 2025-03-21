@@ -1,7 +1,6 @@
-- 📫 mail : yphbchou0911@gmail.com.tw
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EricccTaiwan&hide=jupyter%20notebook,fortran&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+- 💻 Skills : C/C++
+- 📫 Mail : yphbchou0911@gmail.com.tw
+- 🥯 LinkedIn : https://www.linkedin.com/in/yphbchou0911/
 
 <!---
 EricccTaiwan/EricccTaiwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
