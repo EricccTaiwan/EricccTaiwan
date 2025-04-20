@@ -1,4 +1,4 @@
-![EricccTaiwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricccTaiwan&rank_icon=github)
+![EricccTaiwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricccTaiwan)
 
 <!--
 **EricccTaiwan/EricccTaiwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
